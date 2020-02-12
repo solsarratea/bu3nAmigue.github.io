@@ -105,6 +105,33 @@ body {
     width:100%;
 }
 
+.body10 {
+  background-image:url("frances.jpeg");
+  background-size:100%;
+  background-repeat: fixed;
+  background-attachment: fixed;
+  height:100%;
+  width:100%;
+}
+
+.body11 {
+  background-image:url("fibonacci.gif");
+  background-size:100%;
+  background-repeat: fixed;
+  background-attachment: fixed;
+  height:100%;
+  width:100%;
+}
+
+.body12 {
+  background-image:url("tigre.JPG");
+  background-size:100%;
+  background-repeat: fixed;
+  background-attachment: fixed;
+  height:100%;
+  width:100%;
+}
+
 
 
 body.fh5co-offcanvas {
